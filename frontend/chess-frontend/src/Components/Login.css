@@ -1,0 +1,48 @@
+.auth-form-container,
+.login_form {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(218, 230, 180);
+
+
+
+
+
+    border-radius: 10px;
+}
+
+label{
+    text-align: left;
+    padding: .5rem;
+}
+
+input{
+    margin: .5rem;
+    padding: .5rem;
+    border: solid;
+    border-radius: 10px;
+    width: 90%;
+}
+
+button{
+    border: none;
+    background-color: rgb(51, 157, 32);
+    margin: .5rem;
+    padding: .5rem;
+    border-radius: 10px;
+    cursor: pointer;
+    align-items: center;
+}
+
+.link-btn{
+    background: none;
+    color: black;
+    text-decoration: none;
+}
+
+.link-btn:hover{
+    background: none;
+     color: rgb(202, 62, 27);
+
+    text-decoration: none;
+}

@@ -1,0 +1,12 @@
+.space{
+    padding-top: 20px;
+}
+
+.roomIdDisplay{
+    color:yellow;
+    text-decoration: underline solid;
+}
+
+.roomMsg{
+    color:white;
+}
